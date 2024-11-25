@@ -3,6 +3,7 @@
 # E-Mail: sgtgarrido3rm@gmail.com                                           #
 # Data: 2024nov24                                                           #
 # Instituição: Cruzeiro do Sul Virtual (Universidade Positivo)              #
+# Curso: Curso Superior de Tecnologia em Inteligência Artificial            #
 # Disciplina: Atividades de Extensão - Integração de Competências em IA II  #
 # https://github.com/sgtgarrido3rm/querenciasaude                           #
 #############################################################################
